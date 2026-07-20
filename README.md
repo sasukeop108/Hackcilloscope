@@ -1,1 +1,1 @@
-# Hackcilloscope
+A low-cost, open-source oscilloscope built with a microcontroller (Arduino/STM32), a small ADC front end, and a display (OLED/TFT) or PC-based waveform viewer. Designed for hobbyists to visualize and measure basic analog signals — voltage, frequency, and waveform shape — without buying commercial test equipment.# Hackcilloscope
